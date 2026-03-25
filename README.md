@@ -1,2 +1,3 @@
 # cybersec-toolkit
-my project
+GUI-based cybersecurity toolkit with port scanner and password checker
+
